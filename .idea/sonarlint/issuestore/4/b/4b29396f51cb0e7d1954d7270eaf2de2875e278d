@@ -1,0 +1,21 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(æäó“üÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾îÜƒ
+n
+java:S1450""QRemove the "dx" field and declare it as a local variable in the relevant methods.(¨ûĞº8©ı„éù/
+3
+java:S2119x"Save and re-use this "Random".(¼İÅf
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(¹ôÛÿÿÿÿÿ
+T	java:S106À"9Replace this use of System.out or System.err by a logger.(’Ğ¢Ÿûÿÿÿÿ
+T	java:S106Á"9Replace this use of System.out or System.err by a logger.(¹Ğ¨«şÿÿÿÿ
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ë•„ÿüÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(îš·¬ÿÿÿÿÿ
+O	java:S106Ä"9Replace this use of System.out or System.err by a logger.(ÄŒÃ 
+@
+java:S1068 "%Remove this unused "b" private field.(ÉÚ”‹ıÿÿÿÿ
+C
+java:S1068""&Remove this unused "dx" private field.(¨ûĞº8Úı„éù/
+F
+java:S1144Ÿ"/Remove this unused private "getDiagram" method.(õŒ¡”
+Y
+java:S2184Š"BCast one of the operands of this addition operation to a "double".(Òæ€ä

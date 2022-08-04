@@ -1,0 +1,22 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Òô÷ó
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(åùŞÁ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(í…™ıÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Şÿ 
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(âÖ÷ûÿÿÿÿ
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Òºù(
+E
+java:S2387"*"y" is the name of a field in "Component".(›©¼ïúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ˆ³«¢ıÿÿÿÿ
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ÑÙ…úÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(½´Š
+O	java:S106"9Replace this use of System.out or System.err by a logger.(óµÄ®
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(£…¼Èúÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¢ä­ùûÿÿÿÿ
+d	java:S100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø‹·»
+\
+java:S1128"ARemove this unused import 'org.apache.commons.math3.special.Erf'.(…ÒÀıÿÿÿÿ
+E
+java:S1144†")Remove this unused private "func" method.(½‡ìøÿÿÿÿ
+M
+java:S3518ê"7Make sure "k" can't be zero before doing this division.(â€‚P

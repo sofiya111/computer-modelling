@@ -1,0 +1,16 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(æäó“üÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ó°¼†ÿÿÿÿÿ
+3
+java:S2119a"Save and re-use this "Random".(¼İÅf
+3
+java:S2119r"Save and re-use this "Random".(¼İÅf
+T	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(ÎİŠ±ıÿÿÿÿ
+T	java:S106ã"9Replace this use of System.out or System.err by a logger.(•¿àĞşÿÿÿÿ
+T	java:S106ä"9Replace this use of System.out or System.err by a logger.(’Ğ¢Ÿûÿÿÿÿ
+V	java:S106å"9Replace this use of System.out or System.err by a logger.(ä¬œ§8Í‚Å¦0
+V	java:S106æ"9Replace this use of System.out or System.err by a logger.(æÉØ‚8Î‚Å¦0
+[	java:S106è"9Replace this use of System.out or System.err by a logger.(ÏÍü¿ÿÿÿÿÿ8Ñ‚Å¦0
+[	java:S106é"9Replace this use of System.out or System.err by a logger.(’Ğ¢Ÿûÿÿÿÿ8Ò‚Å¦0
+V	java:S106ê"9Replace this use of System.out or System.err by a logger.(ä¬œ§8Ó‚Å¦0
+[	java:S106ë"9Replace this use of System.out or System.err by a logger.(ê³î«ıÿÿÿÿ8Õ‚Å¦0

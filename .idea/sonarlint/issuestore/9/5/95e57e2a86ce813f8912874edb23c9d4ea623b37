@@ -1,0 +1,22 @@
+
+t	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úš³ÿÿÿÿÿ
+3
+java:S2119"Save and re-use this "Random".(¼İÅf
+S	java:S106("9Replace this use of System.out or System.err by a logger.(¬¨¾Óûÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(½×¹šúÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(‹ô†ÿÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¤º´Êşÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(‹ô†ÿÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(æöåˆùÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(‹ô†ÿÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(ñ‚Üû
+S	java:S106="9Replace this use of System.out or System.err by a logger.(½×¹šúÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¤º´Êşÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ğ¦Ú™ÿÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(ìÇÜÛÿÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(×™¹Êùÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(Àã…µ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(“‘ãŞ
+a
+java:S1192*"FDefine a constant instead of duplicating this literal "I = [" 3 times.(‹ô†ÿÿÿÿÿ
